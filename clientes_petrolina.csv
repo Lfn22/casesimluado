@@ -1,0 +1,151 @@
+ClienteID,Endereço,Plano (MB/s),Tipo de Plano,Consumo Atual (MB/s),Velocidade Média Real (MB/s),Tempo de Contrato (meses),Tickets de Suporte,Alerta Anterior,Data,Excedeu,Sugestão de Upgrade (MB/s),Excesso (MB/s),Bairro
+001,"Avenida Dom Malan, 229 - Areia Branca, Petrolina-PE, CEP 56125-859",100,Residencial,114,107,5,1,Não,2025-09-01,True,150,14,Areia Branca
+002,"Travessa Coronel João Coelho, 90 - Cohab Massangano, Petrolina-PE, CEP 56854-204",150,Empresarial,178,172,45,0,Não,2025-09-01,True,150,28,Cohab Massangano
+003,"Rua Fernando Idalino, 224 - Vale do Grande Rio, Petrolina-PE, CEP 56532-132",75,Residencial,97,89,4,1,Não,2025-09-01,True,100,22,Vale do Grande Rio
+004,"Rua Coronel João Coelho, 204 - Jardim Maravilha, Petrolina-PE, CEP 56617-716",150,Residencial,140,134,16,2,Não,2025-09-01,False,150,-10,Jardim Maravilha
+005,"Avenida Floriano Peixoto, 285 - Vila Mocó, Petrolina-PE, CEP 56529-325",150,Residencial,196,194,24,0,Não,2025-09-01,True,150,46,Vila Mocó
+006,"Rua João Gomes, 349 - Centro, Petrolina-PE, CEP 56877-925",50,Residencial,66,64,16,1,Não,2025-09-01,True,75,16,Centro
+007,"Avenida Fernando Idalino, 95 - Gercino Coelho, Petrolina-PE, CEP 56259-320",75,Residencial,121,114,55,0,Não,2025-09-01,True,150,46,Gercino Coelho
+008,"Avenida Floriano Peixoto, 271 - José e Maria, Petrolina-PE, CEP 56199-467",75,Residencial,116,112,2,4,Não,2025-09-01,True,150,41,José e Maria
+009,"Travessa Fernando Idalino, 997 - Centro, Petrolina-PE, CEP 56847-570",75,Residencial,77,74,49,0,Não,2025-09-01,True,100,2,Centro
+010,"Avenida Floriano Peixoto, 907 - José e Maria, Petrolina-PE, CEP 56180-665",150,Residencial,180,173,28,1,Não,2025-09-01,True,150,30,José e Maria
+011,"Travessa Fernando Idalino, 47 - Dom Avelar, Petrolina-PE, CEP 56691-296",100,Residencial,92,87,32,0,Sim,2025-09-01,False,100,-8,Dom Avelar
+012,"Rua Dom Malan, 888 - Jardim Maravilha, Petrolina-PE, CEP 56891-396",75,Residencial,103,102,27,1,Não,2025-09-01,True,150,28,Jardim Maravilha
+013,"Avenida Paulo Afonso, 167 - Areia Branca, Petrolina-PE, CEP 56489-384",150,Residencial,145,142,20,0,Não,2025-09-01,False,150,-5,Areia Branca
+014,"Travessa Guararapes, 719 - Dom Avelar, Petrolina-PE, CEP 56463-314",50,Residencial,47,44,24,0,Não,2025-09-01,False,50,-3,Dom Avelar
+015,"Rua Coronel João Coelho, 747 - Areia Branca, Petrolina-PE, CEP 56723-750",100,Residencial,116,111,12,0,Não,2025-09-01,True,150,16,Areia Branca
+016,"Avenida Guararapes, 948 - Jardim Maravilha, Petrolina-PE, CEP 56267-573",50,Residencial,48,43,50,0,Não,2025-09-01,False,50,-2,Jardim Maravilha
+017,"Avenida São Francisco, 235 - Vila Mocó, Petrolina-PE, CEP 56324-801",100,Residencial,126,126,35,0,Não,2025-09-01,True,150,26,Vila Mocó
+018,"Avenida Guararapes, 68 - Centro, Petrolina-PE, CEP 56924-423",150,Empresarial,172,165,60,0,Não,2025-09-01,True,150,22,Centro
+019,"Travessa Paulo Afonso, 218 - Jardim Maravilha, Petrolina-PE, CEP 56680-997",25,Residencial,65,60,33,1,Não,2025-09-01,True,75,40,Jardim Maravilha
+020,"Avenida Cardoso de Sá, 272 - Pedra Linda, Petrolina-PE, CEP 56505-758",100,Residencial,131,129,33,2,Não,2025-09-01,True,150,31,Pedra Linda
+021,"Travessa Coronel João Coelho, 270 - Cohab Massangano, Petrolina-PE, CEP 56352-862",50,Residencial,83,75,51,0,Não,2025-09-01,True,100,33,Cohab Massangano
+022,"Avenida Paulo Afonso, 225 - Vale do Grande Rio, Petrolina-PE, CEP 56538-697",150,Residencial,163,162,43,1,Não,2025-09-01,True,150,13,Vale do Grande Rio
+023,"Rua São Francisco, 882 - Cohab Massangano, Petrolina-PE, CEP 56621-605",100,Residencial,104,97,37,1,Não,2025-09-01,True,150,4,Cohab Massangano
+024,"Rua João Gomes, 611 - Areia Branca, Petrolina-PE, CEP 56256-742",25,Residencial,73,64,12,1,Não,2025-09-01,True,75,48,Areia Branca
+025,"Travessa Maria Auxiliadora, 542 - Areia Branca, Petrolina-PE, CEP 56494-490",25,Premium,68,66,3,1,Não,2025-09-01,True,75,43,Areia Branca
+026,"Rua Fernando Idalino, 699 - Gercino Coelho, Petrolina-PE, CEP 56666-981",75,Residencial,96,92,1,1,Sim,2025-09-01,True,100,21,Gercino Coelho
+027,"Travessa Paulo Afonso, 115 - Vila Mocó, Petrolina-PE, CEP 56868-373",75,Empresarial,96,91,33,1,Não,2025-09-01,True,100,21,Vila Mocó
+028,"Avenida São Francisco, 977 - Gercino Coelho, Petrolina-PE, CEP 56545-261",50,Residencial,63,54,40,0,Não,2025-09-01,True,75,13,Gercino Coelho
+029,"Rua Coronel João Coelho, 935 - Gercino Coelho, Petrolina-PE, CEP 56612-880",100,Residencial,130,125,10,1,Sim,2025-09-01,True,150,30,Gercino Coelho
+030,"Avenida Coronel João Coelho, 624 - Areia Branca, Petrolina-PE, CEP 56991-740",100,Residencial,141,138,43,0,Não,2025-09-01,True,150,41,Areia Branca
+031,"Rua Coronel João Coelho, 977 - Jardim Maravilha, Petrolina-PE, CEP 56256-482",75,Residencial,113,111,44,1,Não,2025-09-01,True,150,38,Jardim Maravilha
+032,"Avenida Maria Auxiliadora, 20 - Vila Mocó, Petrolina-PE, CEP 56100-713",100,Residencial,138,135,29,1,Não,2025-09-01,True,150,38,Vila Mocó
+033,"Avenida Dom Malan, 60 - Areia Branca, Petrolina-PE, CEP 56471-999",100,Residencial,147,147,13,0,Não,2025-09-01,True,150,47,Areia Branca
+034,"Rua Fernando Idalino, 750 - Jardim Maravilha, Petrolina-PE, CEP 56999-680",25,Residencial,66,63,12,2,Não,2025-09-01,True,75,41,Jardim Maravilha
+035,"Travessa Cardoso de Sá, 132 - Pedra Linda, Petrolina-PE, CEP 56935-170",75,Residencial,76,76,31,1,Sim,2025-09-01,True,100,1,Pedra Linda
+036,"Avenida Coronel João Coelho, 894 - Pedra Linda, Petrolina-PE, CEP 56662-269",150,Residencial,178,178,46,0,Não,2025-09-01,True,150,28,Pedra Linda
+037,"Travessa Dom Malan, 731 - Vale do Grande Rio, Petrolina-PE, CEP 56533-316",75,Residencial,66,57,2,0,Não,2025-09-01,False,75,-9,Vale do Grande Rio
+038,"Travessa Paulo Afonso, 449 - Gercino Coelho, Petrolina-PE, CEP 56508-787",150,Residencial,142,137,51,0,Sim,2025-09-01,False,150,-8,Gercino Coelho
+039,"Rua Dom Malan, 66 - Vila Mocó, Petrolina-PE, CEP 56562-223",25,Empresarial,63,59,50,1,Não,2025-09-01,True,75,38,Vila Mocó
+040,"Travessa Dom Malan, 603 - Dom Avelar, Petrolina-PE, CEP 56121-702",50,Premium,76,73,35,3,Não,2025-09-01,True,100,26,Dom Avelar
+041,"Travessa São Francisco, 235 - Jardim Maravilha, Petrolina-PE, CEP 56107-172",100,Empresarial,138,136,23,0,Não,2025-09-01,True,150,38,Jardim Maravilha
+042,"Avenida Fernando Idalino, 527 - Areia Branca, Petrolina-PE, CEP 56132-980",25,Residencial,70,70,17,2,Não,2025-09-01,True,75,45,Areia Branca
+043,"Avenida Dom Malan, 553 - Jardim Maravilha, Petrolina-PE, CEP 56385-785",100,Residencial,106,101,26,3,Não,2025-09-01,True,150,6,Jardim Maravilha
+044,"Travessa Maria Auxiliadora, 249 - Cohab Massangano, Petrolina-PE, CEP 56840-684",50,Empresarial,98,97,8,1,Não,2025-09-01,True,100,48,Cohab Massangano
+045,"Rua Fernando Idalino, 100 - Pedra Linda, Petrolina-PE, CEP 56926-516",50,Residencial,88,81,29,2,Não,2025-09-01,True,100,38,Pedra Linda
+046,"Avenida Maria Auxiliadora, 885 - José e Maria, Petrolina-PE, CEP 56462-533",25,Premium,16,7,26,0,Não,2025-09-01,False,25,-9,José e Maria
+047,"Travessa Fernando Idalino, 63 - Centro, Petrolina-PE, CEP 56789-769",50,Premium,41,37,10,0,Não,2025-09-01,False,50,-9,Centro
+048,"Rua Dom Malan, 197 - José e Maria, Petrolina-PE, CEP 56845-447",150,Empresarial,167,161,26,2,Não,2025-09-01,True,150,17,José e Maria
+049,"Rua João Gomes, 188 - Jardim Maravilha, Petrolina-PE, CEP 56649-559",50,Residencial,93,84,34,1,Sim,2025-09-01,True,100,43,Jardim Maravilha
+050,"Rua Maria Auxiliadora, 828 - Gercino Coelho, Petrolina-PE, CEP 56573-355",100,Residencial,112,111,51,3,Não,2025-09-01,True,150,12,Gercino Coelho
+051,"Travessa Coronel João Coelho, 857 - Vila Mocó, Petrolina-PE, CEP 56200-151",100,Empresarial,126,119,41,0,Não,2025-09-01,True,150,26,Vila Mocó
+052,"Rua Cardoso de Sá, 417 - Centro, Petrolina-PE, CEP 56195-871",100,Residencial,121,120,7,0,Não,2025-09-01,True,150,21,Centro
+053,"Avenida São Francisco, 169 - Pedra Linda, Petrolina-PE, CEP 56592-318",100,Residencial,122,119,4,0,Não,2025-09-01,True,150,22,Pedra Linda
+054,"Avenida Maria Auxiliadora, 293 - José e Maria, Petrolina-PE, CEP 56102-499",150,Residencial,140,140,58,4,Não,2025-09-01,False,150,-10,José e Maria
+055,"Travessa Maria Auxiliadora, 159 - José e Maria, Petrolina-PE, CEP 56813-848",75,Empresarial,83,79,53,3,Não,2025-09-01,True,100,8,José e Maria
+056,"Rua Floriano Peixoto, 754 - Jardim Maravilha, Petrolina-PE, CEP 56403-322",25,Residencial,16,8,50,0,Não,2025-09-01,False,25,-9,Jardim Maravilha
+057,"Avenida São Francisco, 52 - Vila Mocó, Petrolina-PE, CEP 56162-865",100,Residencial,142,142,45,0,Sim,2025-09-01,True,150,42,Vila Mocó
+058,"Travessa Cardoso de Sá, 59 - Vale do Grande Rio, Petrolina-PE, CEP 56588-614",50,Residencial,83,75,11,2,Não,2025-09-01,True,100,33,Vale do Grande Rio
+059,"Rua Fernando Idalino, 610 - Vila Mocó, Petrolina-PE, CEP 56182-971",100,Residencial,115,108,29,1,Não,2025-09-01,True,150,15,Vila Mocó
+060,"Rua João Gomes, 123 - Areia Branca, Petrolina-PE, CEP 56791-982",50,Premium,71,66,56,0,Não,2025-09-01,True,75,21,Areia Branca
+061,"Travessa São Francisco, 635 - Vale do Grande Rio, Petrolina-PE, CEP 56352-692",50,Residencial,45,39,36,0,Sim,2025-09-01,False,50,-5,Vale do Grande Rio
+062,"Travessa Floriano Peixoto, 536 - Areia Branca, Petrolina-PE, CEP 56529-773",100,Residencial,121,119,25,1,Não,2025-09-01,True,150,21,Areia Branca
+063,"Travessa Paulo Afonso, 245 - Dom Avelar, Petrolina-PE, CEP 56367-309",150,Empresarial,194,194,21,1,Sim,2025-09-01,True,150,44,Dom Avelar
+064,"Travessa Guararapes, 469 - Gercino Coelho, Petrolina-PE, CEP 56505-234",50,Residencial,43,39,57,1,Não,2025-09-01,False,50,-7,Gercino Coelho
+065,"Rua Maria Auxiliadora, 637 - Dom Avelar, Petrolina-PE, CEP 56869-174",50,Residencial,94,93,36,1,Não,2025-09-01,True,100,44,Dom Avelar
+066,"Travessa Dom Malan, 519 - Vale do Grande Rio, Petrolina-PE, CEP 56202-175",100,Residencial,100,96,10,0,Não,2025-09-01,False,100,0,Vale do Grande Rio
+067,"Rua Dom Malan, 379 - Gercino Coelho, Petrolina-PE, CEP 56235-457",50,Residencial,95,88,37,0,Sim,2025-09-01,True,100,45,Gercino Coelho
+068,"Travessa Guararapes, 627 - Gercino Coelho, Petrolina-PE, CEP 56261-548",50,Residencial,98,90,9,0,Não,2025-09-01,True,100,48,Gercino Coelho
+069,"Travessa Guararapes, 955 - Vila Mocó, Petrolina-PE, CEP 56108-783",100,Empresarial,106,105,24,1,Não,2025-09-01,True,150,6,Vila Mocó
+070,"Avenida Fernando Idalino, 912 - Areia Branca, Petrolina-PE, CEP 56999-237",100,Empresarial,127,125,35,1,Não,2025-09-01,True,150,27,Areia Branca
+071,"Rua Guararapes, 289 - Areia Branca, Petrolina-PE, CEP 56860-666",25,Empresarial,38,36,49,0,Não,2025-09-01,True,50,13,Areia Branca
+072,"Avenida Dom Malan, 704 - Vale do Grande Rio, Petrolina-PE, CEP 56315-834",150,Empresarial,144,144,35,0,Não,2025-09-01,False,150,-6,Vale do Grande Rio
+073,"Avenida São Francisco, 95 - Gercino Coelho, Petrolina-PE, CEP 56617-600",150,Residencial,191,184,48,0,Sim,2025-09-01,True,150,41,Gercino Coelho
+074,"Rua São Francisco, 342 - José e Maria, Petrolina-PE, CEP 56949-383",50,Residencial,73,68,36,1,Não,2025-09-01,True,75,23,José e Maria
+075,"Rua Maria Auxiliadora, 565 - Cohab Massangano, Petrolina-PE, CEP 56752-368",150,Residencial,145,138,18,0,Não,2025-09-01,False,150,-5,Cohab Massangano
+076,"Rua Fernando Idalino, 968 - José e Maria, Petrolina-PE, CEP 56674-109",50,Residencial,61,53,49,1,Sim,2025-09-01,True,75,11,José e Maria
+077,"Avenida Floriano Peixoto, 566 - Cohab Massangano, Petrolina-PE, CEP 56658-136",25,Residencial,25,21,39,0,Não,2025-09-01,False,25,0,Cohab Massangano
+078,"Rua Guararapes, 374 - Cohab Massangano, Petrolina-PE, CEP 56540-230",100,Residencial,137,135,32,1,Não,2025-09-01,True,150,37,Cohab Massangano
+079,"Travessa Dom Malan, 683 - Centro, Petrolina-PE, CEP 56466-315",100,Empresarial,105,101,24,1,Não,2025-09-01,True,150,5,Centro
+080,"Travessa João Gomes, 998 - Areia Branca, Petrolina-PE, CEP 56462-898",100,Residencial,122,118,23,1,Não,2025-09-01,True,150,22,Areia Branca
+081,"Rua Cardoso de Sá, 820 - Vale do Grande Rio, Petrolina-PE, CEP 56867-258",150,Residencial,148,144,32,1,Não,2025-09-01,False,150,-2,Vale do Grande Rio
+082,"Rua Paulo Afonso, 802 - Cohab Massangano, Petrolina-PE, CEP 56522-125",25,Residencial,74,72,37,0,Não,2025-09-01,True,75,49,Cohab Massangano
+083,"Travessa Dom Malan, 274 - José e Maria, Petrolina-PE, CEP 56921-785",150,Residencial,198,189,12,0,Não,2025-09-01,True,150,48,José e Maria
+084,"Rua João Gomes, 894 - Cohab Massangano, Petrolina-PE, CEP 56906-818",150,Residencial,145,142,49,1,Não,2025-09-01,False,150,-5,Cohab Massangano
+085,"Rua Dom Malan, 837 - Centro, Petrolina-PE, CEP 56979-581",25,Residencial,30,22,55,0,Não,2025-09-01,True,50,5,Centro
+086,"Rua Dom Malan, 25 - Pedra Linda, Petrolina-PE, CEP 56458-412",25,Residencial,43,34,13,1,Não,2025-09-01,True,50,18,Pedra Linda
+087,"Avenida Fernando Idalino, 991 - Jardim Maravilha, Petrolina-PE, CEP 56508-436",25,Residencial,17,9,23,0,Não,2025-09-01,False,25,-8,Jardim Maravilha
+088,"Travessa João Gomes, 696 - Gercino Coelho, Petrolina-PE, CEP 56459-756",25,Residencial,34,33,25,0,Não,2025-09-01,True,50,9,Gercino Coelho
+089,"Rua Guararapes, 183 - Vila Mocó, Petrolina-PE, CEP 56439-128",100,Residencial,149,142,35,0,Não,2025-09-01,True,150,49,Vila Mocó
+090,"Rua Floriano Peixoto, 445 - Vale do Grande Rio, Petrolina-PE, CEP 56371-139",75,Residencial,123,116,41,0,Não,2025-09-01,True,150,48,Vale do Grande Rio
+091,"Avenida João Gomes, 621 - Dom Avelar, Petrolina-PE, CEP 56846-905",75,Empresarial,100,94,30,0,Sim,2025-09-01,True,100,25,Dom Avelar
+092,"Travessa Dom Malan, 261 - Vila Mocó, Petrolina-PE, CEP 56218-494",25,Residencial,33,26,17,1,Não,2025-09-01,True,50,8,Vila Mocó
+093,"Rua Coronel João Coelho, 948 - Centro, Petrolina-PE, CEP 56825-546",75,Residencial,90,88,49,0,Não,2025-09-01,True,100,15,Centro
+094,"Travessa Dom Malan, 373 - Vila Mocó, Petrolina-PE, CEP 56803-836",75,Residencial,67,62,20,1,Não,2025-09-01,False,75,-8,Vila Mocó
+095,"Avenida Floriano Peixoto, 322 - José e Maria, Petrolina-PE, CEP 56171-780",25,Residencial,33,33,48,1,Sim,2025-09-01,True,50,8,José e Maria
+096,"Travessa Guararapes, 683 - Areia Branca, Petrolina-PE, CEP 56837-407",75,Residencial,84,78,25,0,Não,2025-09-01,True,100,9,Areia Branca
+097,"Travessa Guararapes, 568 - José e Maria, Petrolina-PE, CEP 56434-512",150,Residencial,171,171,22,0,Não,2025-09-01,True,150,21,José e Maria
+098,"Travessa João Gomes, 694 - Cohab Massangano, Petrolina-PE, CEP 56296-530",50,Residencial,46,38,13,0,Não,2025-09-01,False,50,-4,Cohab Massangano
+099,"Avenida João Gomes, 562 - Cohab Massangano, Petrolina-PE, CEP 56730-682",50,Residencial,91,91,59,0,Sim,2025-09-01,True,100,41,Cohab Massangano
+100,"Rua João Gomes, 805 - Centro, Petrolina-PE, CEP 56411-393",25,Residencial,55,55,19,0,Sim,2025-09-01,True,75,30,Centro
+101,"Avenida Maria Auxiliadora, 453 - Vale do Grande Rio, Petrolina-PE, CEP 56721-770",100,Residencial,122,116,49,0,Não,2025-09-01,True,150,22,Vale do Grande Rio
+102,"Travessa Maria Auxiliadora, 813 - Pedra Linda, Petrolina-PE, CEP 56791-318",25,Residencial,54,53,36,0,Não,2025-09-01,True,75,29,Pedra Linda
+103,"Avenida Coronel João Coelho, 680 - Cohab Massangano, Petrolina-PE, CEP 56774-186",100,Residencial,128,124,12,0,Não,2025-09-01,True,150,28,Cohab Massangano
+104,"Rua Guararapes, 231 - Vale do Grande Rio, Petrolina-PE, CEP 56443-195",50,Premium,57,50,41,0,Não,2025-09-01,True,75,7,Vale do Grande Rio
+105,"Rua Dom Malan, 487 - Jardim Maravilha, Petrolina-PE, CEP 56250-125",25,Residencial,54,47,19,0,Sim,2025-09-01,True,75,29,Jardim Maravilha
+106,"Rua Maria Auxiliadora, 425 - Vale do Grande Rio, Petrolina-PE, CEP 56970-886",150,Residencial,140,138,12,0,Não,2025-09-01,False,150,-10,Vale do Grande Rio
+107,"Travessa João Gomes, 507 - Vale do Grande Rio, Petrolina-PE, CEP 56299-835",75,Residencial,75,69,9,1,Não,2025-09-01,False,75,0,Vale do Grande Rio
+108,"Travessa São Francisco, 915 - José e Maria, Petrolina-PE, CEP 56349-251",100,Residencial,117,115,7,1,Não,2025-09-01,True,150,17,José e Maria
+109,"Rua Cardoso de Sá, 824 - Areia Branca, Petrolina-PE, CEP 56897-535",75,Residencial,121,116,28,0,Não,2025-09-01,True,150,46,Areia Branca
+110,"Travessa Dom Malan, 940 - Vila Mocó, Petrolina-PE, CEP 56575-151",75,Residencial,89,84,14,2,Não,2025-09-01,True,100,14,Vila Mocó
+111,"Avenida Coronel João Coelho, 573 - Areia Branca, Petrolina-PE, CEP 56567-236",25,Residencial,64,62,31,0,Não,2025-09-01,True,75,39,Areia Branca
+112,"Avenida Floriano Peixoto, 835 - Vale do Grande Rio, Petrolina-PE, CEP 56424-873",75,Premium,87,81,52,2,Não,2025-09-01,True,100,12,Vale do Grande Rio
+113,"Travessa Maria Auxiliadora, 919 - Vila Mocó, Petrolina-PE, CEP 56536-950",150,Empresarial,170,168,19,0,Não,2025-09-01,True,150,20,Vila Mocó
+114,"Avenida Maria Auxiliadora, 266 - Cohab Massangano, Petrolina-PE, CEP 56861-982",75,Residencial,94,87,58,0,Não,2025-09-01,True,100,19,Cohab Massangano
+115,"Avenida Coronel João Coelho, 497 - Jardim Maravilha, Petrolina-PE, CEP 56960-752",25,Residencial,56,47,47,0,Sim,2025-09-01,True,75,31,Jardim Maravilha
+116,"Rua Guararapes, 241 - Jardim Maravilha, Petrolina-PE, CEP 56381-550",150,Residencial,174,171,16,1,Sim,2025-09-01,True,150,24,Jardim Maravilha
+117,"Travessa Fernando Idalino, 142 - Gercino Coelho, Petrolina-PE, CEP 56443-427",50,Residencial,46,46,53,0,Não,2025-09-01,False,50,-4,Gercino Coelho
+118,"Travessa Cardoso de Sá, 724 - Cohab Massangano, Petrolina-PE, CEP 56336-492",75,Residencial,124,121,5,1,Sim,2025-09-01,True,150,49,Cohab Massangano
+119,"Avenida Paulo Afonso, 556 - Jardim Maravilha, Petrolina-PE, CEP 56165-524",25,Residencial,30,24,35,0,Não,2025-09-01,True,50,5,Jardim Maravilha
+120,"Rua João Gomes, 399 - Pedra Linda, Petrolina-PE, CEP 56525-163",50,Residencial,65,62,12,2,Não,2025-09-01,True,75,15,Pedra Linda
+121,"Travessa João Gomes, 489 - Vale do Grande Rio, Petrolina-PE, CEP 56812-120",50,Residencial,87,82,25,0,Não,2025-09-01,True,100,37,Vale do Grande Rio
+122,"Avenida João Gomes, 552 - Centro, Petrolina-PE, CEP 56460-405",100,Residencial,146,138,52,0,Não,2025-09-01,True,150,46,Centro
+123,"Rua Maria Auxiliadora, 225 - Vila Mocó, Petrolina-PE, CEP 56919-717",150,Premium,191,191,59,0,Não,2025-09-01,True,150,41,Vila Mocó
+124,"Rua João Gomes, 345 - Gercino Coelho, Petrolina-PE, CEP 56546-597",75,Residencial,124,120,21,0,Não,2025-09-01,True,150,49,Gercino Coelho
+125,"Avenida Cardoso de Sá, 638 - José e Maria, Petrolina-PE, CEP 56841-269",25,Residencial,63,57,36,0,Não,2025-09-01,True,75,38,José e Maria
+126,"Travessa Floriano Peixoto, 679 - Vila Mocó, Petrolina-PE, CEP 56127-503",100,Residencial,91,91,53,0,Não,2025-09-01,False,100,-9,Vila Mocó
+127,"Avenida Cardoso de Sá, 888 - Centro, Petrolina-PE, CEP 56185-758",150,Residencial,140,137,23,0,Não,2025-09-01,False,150,-10,Centro
+128,"Avenida João Gomes, 336 - Pedra Linda, Petrolina-PE, CEP 56286-151",100,Residencial,137,132,16,0,Não,2025-09-01,True,150,37,Pedra Linda
+129,"Avenida João Gomes, 285 - Jardim Maravilha, Petrolina-PE, CEP 56565-434",150,Residencial,151,150,57,0,Não,2025-09-01,True,150,1,Jardim Maravilha
+130,"Rua Maria Auxiliadora, 20 - José e Maria, Petrolina-PE, CEP 56358-954",150,Residencial,144,135,39,0,Não,2025-09-01,False,150,-6,José e Maria
+131,"Rua Fernando Idalino, 800 - Vila Mocó, Petrolina-PE, CEP 56153-458",75,Residencial,101,97,45,0,Não,2025-09-01,True,150,26,Vila Mocó
+132,"Rua Dom Malan, 860 - Centro, Petrolina-PE, CEP 56872-131",150,Residencial,171,162,53,0,Não,2025-09-01,True,150,21,Centro
+133,"Rua Cardoso de Sá, 485 - Centro, Petrolina-PE, CEP 56736-256",100,Residencial,148,148,42,1,Não,2025-09-01,True,150,48,Centro
+134,"Avenida Guararapes, 786 - Areia Branca, Petrolina-PE, CEP 56677-323",150,Residencial,194,189,58,1,Não,2025-09-01,True,150,44,Areia Branca
+135,"Travessa Fernando Idalino, 797 - Dom Avelar, Petrolina-PE, CEP 56271-720",75,Empresarial,73,68,39,0,Não,2025-09-01,False,75,-2,Dom Avelar
+136,"Travessa São Francisco, 952 - Cohab Massangano, Petrolina-PE, CEP 56418-210",75,Residencial,105,102,14,0,Sim,2025-09-01,True,150,30,Cohab Massangano
+137,"Avenida João Gomes, 965 - Gercino Coelho, Petrolina-PE, CEP 56689-793",100,Residencial,124,117,31,0,Não,2025-09-01,True,150,24,Gercino Coelho
+138,"Travessa Dom Malan, 105 - Jardim Maravilha, Petrolina-PE, CEP 56177-706",50,Residencial,58,55,58,1,Não,2025-09-01,True,75,8,Jardim Maravilha
+139,"Travessa Fernando Idalino, 816 - Gercino Coelho, Petrolina-PE, CEP 56970-800",50,Residencial,87,80,5,0,Não,2025-09-01,True,100,37,Gercino Coelho
+140,"Avenida Coronel João Coelho, 439 - Vale do Grande Rio, Petrolina-PE, CEP 56901-142",150,Residencial,155,148,35,0,Não,2025-09-01,True,150,5,Vale do Grande Rio
+141,"Travessa Paulo Afonso, 13 - Dom Avelar, Petrolina-PE, CEP 56170-618",25,Residencial,17,13,23,0,Não,2025-09-01,False,25,-8,Dom Avelar
+142,"Rua João Gomes, 984 - José e Maria, Petrolina-PE, CEP 56942-601",150,Residencial,159,156,29,0,Sim,2025-09-01,True,150,9,José e Maria
+143,"Avenida Cardoso de Sá, 446 - Dom Avelar, Petrolina-PE, CEP 56750-948",100,Residencial,113,112,43,1,Não,2025-09-01,True,150,13,Dom Avelar
+144,"Travessa Guararapes, 631 - Cohab Massangano, Petrolina-PE, CEP 56851-634",100,Residencial,143,141,11,0,Não,2025-09-01,True,150,43,Cohab Massangano
+145,"Avenida João Gomes, 846 - Vila Mocó, Petrolina-PE, CEP 56893-595",100,Residencial,145,143,18,2,Não,2025-09-01,True,150,45,Vila Mocó
+146,"Rua Fernando Idalino, 286 - Vale do Grande Rio, Petrolina-PE, CEP 56374-430",100,Residencial,122,119,47,0,Não,2025-09-01,True,150,22,Vale do Grande Rio
+147,"Avenida Floriano Peixoto, 625 - Pedra Linda, Petrolina-PE, CEP 56349-868",100,Residencial,113,110,12,0,Sim,2025-09-01,True,150,13,Pedra Linda
+148,"Avenida Paulo Afonso, 187 - José e Maria, Petrolina-PE, CEP 56444-129",75,Residencial,116,107,9,0,Não,2025-09-01,True,150,41,José e Maria
+149,"Avenida Paulo Afonso, 287 - Pedra Linda, Petrolina-PE, CEP 56317-463",50,Residencial,50,46,10,0,Não,2025-09-01,False,50,0,Pedra Linda
+150,"Travessa São Francisco, 530 - Vale do Grande Rio, Petrolina-PE, CEP 56818-382",100,Empresarial,138,135,58,0,Não,2025-09-01,True,150,38,Vale do Grande Rio
